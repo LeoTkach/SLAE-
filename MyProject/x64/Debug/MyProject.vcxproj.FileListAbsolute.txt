@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\MyProject\MyProject\x64\Debug\MyProject.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyProject\MyProject\x64\Debug\MyProject.MyForm.resources
+C:\Users\user\source\repos\MyProject\MyProject\x64\Debug\MyProject.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\MyProject\MyProject\x64\Debug\MyProject.Spravka.resources
+C:\Users\user\source\repos\MyProject\MyProject\x64\Debug\MyProject.ResultsForm.resources
+C:\Users\user\source\repos\MyProject\MyProject\x64\Debug\MyProject.Zvorot_zv.resources
